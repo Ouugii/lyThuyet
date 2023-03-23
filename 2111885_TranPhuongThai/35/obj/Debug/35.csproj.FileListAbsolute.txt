@@ -1,0 +1,11 @@
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\bin\Debug\35.exe.config
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\bin\Debug\35.exe
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\bin\Debug\35.pdb
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\obj\Debug\35.csproj.AssemblyReference.cache
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\obj\Debug\35.csproj.SuggestedBindingRedirects.cache
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\obj\Debug\_35.frmLinkLabel.resources
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\obj\Debug\_35.Properties.Resources.resources
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\obj\Debug\35.csproj.GenerateResource.cache
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\obj\Debug\35.csproj.CoreCompileInputs.cache
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\obj\Debug\35.exe
+C:\Users\soju\Downloads\2111871_NguyenHoThienNhan\35\obj\Debug\35.pdb
